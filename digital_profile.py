@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title ("My Digital Profile")
 
-streamlit as st("แนะนําตัว")
+st.header("แนะนําตัว")
 st.write("นาย สิธวิชฎ์ ใจหาญ")
 st.write("ชื่อเล่น ดรีม")
 st.write("ม.4/13 เลขที่ี 26")
